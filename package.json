@@ -1,0 +1,14 @@
+{
+  "name": "database_connector",
+  "version": "1.0.0",
+  "description": "Mongodb driver connected with nodejs driver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mani",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.9"
+  }
+}
